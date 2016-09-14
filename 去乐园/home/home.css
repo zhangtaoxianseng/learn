@@ -1,0 +1,11 @@
+#banner{width: 100%;height: 15.3rem;overflow: hidden;position: relative;}
+#banner .imgs{width:300%;height: 15.3rem;position: absolute;background: pink;}
+#banner .imgs img{width:100%;height:15.3rem;float:left;}
+.icon{width: 100%;height: 2rem;background: red;}
+.main1_img1{width: 100%;height: 15.9rem;}
+.main1_img1 img{width: 15.9rem;height: 15.9rem;}
+.main1_img1 img:first-child{margin-right:0.2rem;}
+.main1_p{width: 100%;height: 4.7rem;}
+.main1_p p{color:orange;width:6.4rem;height:3rem;line-height: 3rem;margin:0.85rem auto;border-bottom:1px solid orangered;border-top:1px solid orangered;font-size: 1.5rem;}
+.main1_imgs{width: 100%;}
+.main1_imgs img{width: 100%;height: 12.5rem;margin-bottom: 1rem;}
